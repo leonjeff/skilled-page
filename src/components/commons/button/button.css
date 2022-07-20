@@ -1,0 +1,18 @@
+@import "../../../constants/colors.css";
+
+
+.custom-button-one{
+    background:  linear-gradient(45deg, var(--customgradientone));
+    border: none;
+    width: 104px;
+    height: 32px;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    border-radius: 20px;
+}
+
+.custom-button-one:hover{
+    background:  linear-gradient(45deg, var(--customgradientonehover));
+    cursor: pointer;
+}

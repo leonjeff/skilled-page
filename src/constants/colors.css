@@ -1,0 +1,10 @@
+:root {
+    --purple: #666CA3;
+    --dark-blue: #13183F;
+    --gray: #83869A;
+    --fucsia: #F74780;
+    --pink: #FFA7C3;
+    --customgradientone: #F02AA6, #FF6F48;
+    --customgradientonehover: #FF6F48, #F02AA6;
+    --customgradienttwo: #4851FF - #F02AA6;
+}
