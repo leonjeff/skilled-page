@@ -6,5 +6,6 @@
     --pink: #FFA7C3;
     --customgradientone: #F02AA6, #FF6F48;
     --customgradientonehover: #FF6F48, #F02AA6;
-    --customgradienttwo: #4851FF - #F02AA6;
+    --customgradienttwo: #4851FF, #F02AA6;
+    --customgradienttwohover: #F02AA6, #4851FF ;
 }

@@ -1,8 +1,8 @@
 @import "../../../constants/colors.css";
 
 
-.custom-button-dark-blue{
-    background-color: var(--dark-blue);
+.custom-button-gradienttwo{
+    background: linear-gradient(#4851FF, #F02AA6);
     border: none;
     width: 104px;
     height: 32px;
@@ -12,7 +12,7 @@
     border-radius: 20px;
 }
 
-.custom-button-dark-blue:hover{
-    background-color: var(--purple);;
+.custom-button-gradienttwo:hover{
+    background: linear-gradient(#F02AA6, #4851FF);
     cursor: pointer;
 }

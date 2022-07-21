@@ -1,13 +1,11 @@
-import { Navbar } from "./components/layout/components/navbar/navbar";
-import { Body} from "./components/layout/components/body/body";
+import { Main } from './components/layout/main';
 
 
-console.log(Navbar)
+// console.log(Navbar)
 const App = () => {
   return (
     <div className="App">
-      <Navbar />
-      <Body/>
+      <Main/>
     </div>
   );
 };
