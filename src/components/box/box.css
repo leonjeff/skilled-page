@@ -1,0 +1,28 @@
+@import "../../constants/colors.css";
+
+.first{
+    background: linear-gradient(var(--customgradientone));
+    border-radius: 20px;
+    width: 350px;
+    height: 322px;
+    color: white;
+    font-size: 20px;
+}
+.first-info{
+    padding: 40px 20px 20px 20px;
+}
+
+
+.item{
+    border-radius: 20px;
+    width: 350px;
+    height: 322px;
+    background: white;
+    position: relative;
+}
+.icon{
+    position: absolute;
+    top: -20px;
+    width: 40px;
+    left: 20px;
+}

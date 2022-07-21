@@ -1,4 +1,4 @@
-import { Button2 } from "../../../commons/button/button2";
+import { Button2 } from "../../../commons/button/button";
 import CustomLogo2 from '../../../../assets/images/skilled_2.png';
 import './footer.css';
 

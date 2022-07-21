@@ -1,11 +1,11 @@
 .main {
-
-border: 1px solid red;
-display: flex;
-justify-content: center;
-flex-direction: column;
-
-
-
-
+    background-image: url('../../assets/images/main_bg.png');
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-size: 30%;
+    width: 100%;
+    background-position-x: right;
+    background-repeat: no-repeat;
 }

@@ -4,16 +4,16 @@
     align-items: center;
     height: 120px;
     background: transparent;
-    width: 80%;
+    width: 100%;
     position: absolute;
     top: 5px;
 }
 
 .left{
-    width: 25%;
+    width: 40%;
 }
 .right{
-    width: 25%;
+    width: 40%;
     display: flex;
     justify-content: flex-end;
 }
