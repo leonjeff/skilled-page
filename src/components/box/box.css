@@ -20,9 +20,30 @@
     background: white;
     position: relative;
 }
+
+.item-color{
+    padding-left: 20px;
+    padding-top: 20px;
+    color: #F74780 ;
+}
+
+.p-text{
+    
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-left: 20px;
+}
+
 .icon{
     position: absolute;
     top: -20px;
     width: 40px;
     left: 20px;
+}
+
+.h-text{
+    font-size: 20px;
+    padding-right: 20px;
+    padding-top: 2px;
+    padding-left: 20px;
 }
